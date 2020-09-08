@@ -2,6 +2,7 @@
 #  from their files:
 from .surface.Surface import Surface
 from .surface.readAxis import read_axis
+from .surface.Axis import Axis
 
 
 #  Imoprt the functions specified in the coils folder, which contains its own
